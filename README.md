@@ -1,0 +1,2 @@
+# carricoche2
+Uso del microcontrador Arduino y el circuito para el control de los 4 motores de corriente continua de un robot. Lograr que se ejecute la siguiente secuencia de movimientos (el robot se mueve hacia adelante 2 segundos, se para 1 segundo, se mueve hace atrás 2 segundos, se para 1 segundo, gira hacia la derecha 2 segundos, se para 1 segundo, gira hacia la izquierda dos segundos, se para 1 segundo).
